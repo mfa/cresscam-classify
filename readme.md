@@ -8,7 +8,7 @@ Later we may want to classify the other types for better time lapse videos.
 
 ## process
 
-(1) categorise some photos using shotwell into 4 ratings (named above).
-(2) add some image manipulation functions to calculate hue.
-(3) train using i.e. Tensorflow
-(4) Profit.
+1. categorise some photos using shotwell into 4 ratings (named above).
+2. add some image manipulation functions to calculate hue.
+3. train using i.e. Tensorflow
+4. Profit.
