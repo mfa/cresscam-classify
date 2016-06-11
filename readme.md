@@ -2,8 +2,8 @@
 
 ## about
 
-The photos can be distinguished in *too bright*, *too dark*, *with a lot of red* (because of UV lamp) and *good photos*.
-First we need to get rid of the too bright ones because they show nothing significant.
+The photos can be distinguished in *too bright*, *too dark*, *with a lot of red* (because of UV lamp) and *good photos*.  
+First we need to get rid of the too bright ones because they show nothing significant.  
 Later we may want to classify the other types for better time lapse videos.
 
 ## process
